@@ -1,1 +1,1 @@
-# ajax-vanilla
+# ajax-vanilla## Just a simple example using ajax with vanilla JS ##
